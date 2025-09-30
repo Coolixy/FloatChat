@@ -1,0 +1,52 @@
+[
+    {
+        "timestamp": "2025-09-22T01:48:21.953911",
+        "query": "Hi",
+        "response": "I'm an ARGO oceanographic data analysis system. Please ask questions about ocean temperature, salinity, ARGO floats, or marine data analysis."
+    },
+    {
+        "timestamp": "2025-09-22T01:52:07.467675",
+        "query": "hi",
+        "response": "I'm an ARGO oceanographic data analysis system. Please ask questions about ocean temperature, salinity, ARGO floats, or marine data analysis."
+    },
+    {
+        "timestamp": "2025-09-22T01:56:35.558382",
+        "query": "Hi",
+        "response": "I'm an ARGO oceanographic data analysis system. Please ask questions about ocean temperature, salinity, ARGO floats, or marine data analysis."
+    },
+    {
+        "timestamp": "2025-09-22T02:08:54.703336",
+        "query": "Lowest Salinity ",
+        "response": "The lowest salinity found is 33.6 PSU.  Freshest: Southern Indian Ocean shows the freshest water, likely due to river discharge or rainfall."
+    },
+    {
+        "timestamp": "2025-09-22T02:14:17.951345",
+        "query": "hi",
+        "response": "I'm an ARGO oceanographic data analysis system. Please ask questions about ocean temperature, salinity, ARGO floats, or marine data analysis."
+    },
+    {
+        "timestamp": "2025-09-22T02:16:52.637713",
+        "query": "Hi",
+        "response": "I'm an ARGO oceanographic data analysis system. Please ask questions about ocean temperature, salinity, ARGO floats, or marine data analysis."
+    },
+    {
+        "timestamp": "2025-09-22T04:37:15.459936",
+        "query": "Hi",
+        "response": "I'm an ARGO oceanographic data analysis system. Please ask questions about ocean temperature, salinity, ARGO floats, or marine data analysis."
+    },
+    {
+        "timestamp": "2025-09-22T04:37:28.051738",
+        "query": "What is Salinity",
+        "response": "Salinity analysis shows values ranging from 33.6 to 35.5 PSU with an average of 34.8 PSU."
+    },
+    {
+        "timestamp": "2025-09-22T09:15:36.221788",
+        "query": "Hi",
+        "response": "I'm an ARGO oceanographic data analysis system. Please ask questions about ocean temperature, salinity, ARGO floats, or marine data analysis."
+    },
+    {
+        "timestamp": "2025-09-22T09:15:58.133651",
+        "query": "Lowest Salinity",
+        "response": "The lowest salinity found is 33.6 PSU.  Freshest: Southern Indian Ocean shows the freshest water, likely due to river discharge or rainfall."
+    }
+]
