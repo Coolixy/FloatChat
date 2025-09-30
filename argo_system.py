@@ -22,7 +22,7 @@ CHROMA_PATH = "./chroma_db"
 COLLECTION_NAME = "argo_profiles_metadata"
 OLLAMA_URL = "http://localhost:11434/api/generate"
 OLLAMA_MODEL = "llama3"
-POSTGRES_URL = 'postgresql://neondb_owner:npg_IJSRXYiFGc75@ep-sparkling-butterfly-adch5qkf-pooler.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require'
+POSTGRES_URL = 'postgresql://'
 
 ARGO_FLOATS_DATABASE = {
     '1902677': {
