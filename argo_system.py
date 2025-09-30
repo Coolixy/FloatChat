@@ -16,7 +16,7 @@ import json
 import os
 import matplotlib.pyplot as plt
 
-# Configuration
+
 EMBED_MODEL = "all-MiniLM-L6-v2"
 CHROMA_PATH = "./chroma_db"
 COLLECTION_NAME = "argo_profiles_metadata"
